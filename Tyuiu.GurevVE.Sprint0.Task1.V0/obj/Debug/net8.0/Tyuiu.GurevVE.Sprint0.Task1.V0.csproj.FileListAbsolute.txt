@@ -1,0 +1,15 @@
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/bin/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/bin/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.deps.json
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/bin/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.runtimeconfig.json
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/bin/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.dll
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/bin/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.pdb
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.AssemblyInfoInputs.cache
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.AssemblyInfo.cs
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.csproj.CoreCompileInputs.cache
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.sourcelink.json
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.dll
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/refint/Tyuiu.GurevVE.Sprint0.Task1.V0.dll
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.pdb
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint0.Task1.V0.genruntimeconfig.cache
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint0/Tyuiu.GurevVE.Sprint0.Task1.V0/obj/Debug/net8.0/ref/Tyuiu.GurevVE.Sprint0.Task1.V0.dll
