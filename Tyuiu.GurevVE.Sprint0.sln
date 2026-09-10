@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GurevVE.Sprint0", "Tyuiu.GurevVE.Sprint0\Tyuiu.GurevVE.Sprint0.csproj", "{B21C71DA-ADCA-4BF8-97AD-F9DD9F8A5F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{821C2F00-B064-41CB-9745-072AC153E3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GurevVE.Sprint0.Task0.V0", "Tyuiu.GurevVE.Sprint0.Task0.V0\Tyuiu.GurevVE.Sprint0.Task0.V0.csproj", "{D53A0B73-017E-4916-B970-49ECD1E6ACD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21C71DA-ADCA-4BF8-97AD-F9DD9F8A5F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21C71DA-ADCA-4BF8-97AD-F9DD9F8A5F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21C71DA-ADCA-4BF8-97AD-F9DD9F8A5F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21C71DA-ADCA-4BF8-97AD-F9DD9F8A5F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53A0B73-017E-4916-B970-49ECD1E6ACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53A0B73-017E-4916-B970-49ECD1E6ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53A0B73-017E-4916-B970-49ECD1E6ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53A0B73-017E-4916-B970-49ECD1E6ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D53A0B73-017E-4916-B970-49ECD1E6ACD1} = {821C2F00-B064-41CB-9745-072AC153E3BF}
+	EndGlobalSection
+EndGlobal
