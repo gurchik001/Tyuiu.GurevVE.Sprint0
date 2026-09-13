@@ -6,4 +6,9 @@ public class DataService
     {
         return $"Привет, {name}";
     }
+
+    public static int[] AdditionArrays(int[] arrayNums1, int[] arrayNums2)
+    {
+        throw new NotImplementedException();
+    }
 }
